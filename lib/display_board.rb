@@ -7,3 +7,4 @@ def display_board(board_arr)
   puts "-----------"
   puts "   |   |   "
 end
+board = [" "," "," "," "," "," "," "," "," "]
