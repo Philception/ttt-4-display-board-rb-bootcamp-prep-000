@@ -9,4 +9,4 @@ def display_board(board_arr)
   puts "   |   |   "
 end
 
-display_board
+display_board()
